@@ -61,6 +61,21 @@ export const bios = [
 
 export const icons = [
   {
+    id: 7,
+    icon:  <FaReact />,
+    bio: "ReactJS"
+  },
+  {
+    id: 5,
+    icon:  <SiJavascript />,
+    bio: "JavaScript"
+  },
+  {
+    id: 4,
+    icon:  <FaJava />,
+    bio: "Java"
+  },
+  {
     id: 1,
     icon:  <FaHtml5 />,
     bio: "HTML"
@@ -75,26 +90,14 @@ export const icons = [
     icon:  <FaSass />,
     bio: "SASS"
   },
-  {
-    id: 4,
-    icon:  <FaJava />,
-    bio: "Java"
-  },
-  {
-    id: 5,
-    icon:  <SiJavascript />,
-    bio: "JavaScript"
-  },
+ 
+ 
   // {
   //   id: 6,
   //   icon:  <SiTypescript />,
   //   bio: "Typesript"
   // },
-  {
-    id: 7,
-    icon:  <FaReact />,
-    bio: "ReactJS"
-  },
+ 
   // {
   //   id: 8,
   //   icon:  <TbBrandNextjs />,
@@ -124,8 +127,8 @@ export const workImages = [
     img: work1,
     name: "ReactJS 1",
     category: "ReactJS",
-    gitLab: "https://github.com/asamyakagarwal/car-rental.git",
-    demo: "https://car-rental-126ma5ppc-samyaks-projects-9fe6f719.vercel.app",
+    gitLab: "https://github.com/asamyakagarwal/btp.git",
+    demo: "https://btp-alpha.vercel.app/",
   }
   // {
   //   id: 2,
